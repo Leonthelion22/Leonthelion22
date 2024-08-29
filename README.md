@@ -17,12 +17,12 @@ My journey in IT has led me to develop a passion for Cloud Security, and I am no
 
 | Skill                                           | Associated Project                                    |
 | ----------------------------------------------- | ----------------------------------------------------- |
-| Active Directory Configuration and Troubleshooting |         <a href="#">Active Directory Lab</a> |
-| Endpoint Detection && Response | <a href="#">EndPoint Detection & Response</a> |
-| Splunk Enterprise           | <a href="#">Splunk SIEM               |
-| Microsoft Sentinel SIEM        | <a href="#">Sentinel SIEM         |
-| Wireshark                    | <a href="#">Packet Capture PCAP                  |
-<!-- | Scripting and Automation for Threat Mitigation  | <a href="https://google.com">SOC Automation        | -->
+| 𝗦𝗲𝗰𝘂𝗿𝗲 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗧𝗿𝗼𝘂𝗯𝗹𝗲𝘀𝗵𝗼𝗼𝘁𝗶𝗻𝗴 𝗼𝗳 𝗘𝗖𝟮 𝗜𝗻𝘀𝘁𝗮𝗻𝗰𝗲𝘀 𝗪𝗶𝘁𝗵 𝗥𝗗𝗣 𝗣𝘁.𝟮 |         <a href="https://medium.com/@leon_b./-d9607f4a2ee9">𝗦𝗲𝗰𝘂𝗿𝗲 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗧𝗿𝗼𝘂𝗯𝗹𝗲𝘀𝗵𝗼𝗼𝘁𝗶𝗻𝗴 𝗼𝗳 𝗘𝗖𝟮 𝗜𝗻𝘀𝘁𝗮𝗻𝗰𝗲𝘀 𝗪𝗶𝘁𝗵 𝗥𝗗𝗣 𝗣𝘁.𝟮</a> |
+| 𝗦𝗲𝗰𝘂𝗿𝗲 𝗦𝗦𝗠 𝗘𝗖𝟮 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻 | <a href="https://medium.com/@leon_b./-fd2c9d9720ee">𝗦𝗲𝗰𝘂𝗿𝗲 𝗦𝗦𝗠 𝗘𝗖𝟮 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻</a> |
+| 𝐒𝟑 𝐒𝐭𝐚𝐭𝐢𝐜 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐔𝐬𝐢𝐧𝐠 𝐂𝐥𝐨𝐮𝐝𝐅𝐫𝐨𝐧𝐭        | <a href="https://medium.com/@leon_b./-694e71de5533">𝐒𝟑 𝐒𝐭𝐚𝐭𝐢𝐜 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐔𝐬𝐢𝐧𝐠 𝐂𝐥𝐨𝐮𝐝𝐅𝐫𝐨𝐧𝐭               |
+| 𝐒𝐞𝐜𝐮𝐫𝐞 𝐈𝐓 𝐈𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐔𝐬𝐢𝐧𝐠 𝐋𝐢𝐧𝐮𝐱        | <a href="https://medium.com/@leon_b./-3481e869a901">𝐒𝐞𝐜𝐮𝐫𝐞 𝐈𝐓 𝐈𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐔𝐬𝐢𝐧𝐠 𝐋𝐢𝐧𝐮𝐱         |
+|𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐀𝐩𝐚𝐜𝐡𝐞 𝐖𝐞𝐛 𝐒𝐞𝐫𝐯𝐞𝐫 𝐖𝐢𝐭𝐡 𝐋𝐢𝐧𝐮𝐱                    | <a href="https://medium.com/@leon_b./-c666a249c8fa">𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐀𝐩𝐚𝐜𝐡𝐞 𝐖𝐞𝐛 𝐒𝐞𝐫𝐯𝐞𝐫 𝐖𝐢𝐭𝐡 𝐋𝐢𝐧𝐮𝐱                  |
+<!-- | 𝐀 𝐅𝐨𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐓𝐫𝐨𝐮𝐛𝐥𝐞𝐬𝐡𝐨𝐨𝐭𝐢𝐧𝐠 𝐨𝐟 𝐄𝐂𝟐 𝐈𝐧𝐬𝐭𝐚𝐧𝐜𝐞𝐬 𝐖𝐢𝐭𝐡 𝐒𝐒𝐇 𝐏𝐭.𝟏  | <a href="https://medium.com/@leon_b./-2477b6fc91b0">𝐀 𝐅𝐨𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐓𝐫𝐨𝐮𝐛𝐥𝐞𝐬𝐡𝐨𝐨𝐭𝐢𝐧𝐠 𝐨𝐟 𝐄𝐂𝟐 𝐈𝐧𝐬𝐭𝐚𝐧𝐜𝐞𝐬 𝐖𝐢𝐭𝐡 𝐒𝐒𝐇 𝐏𝐭.𝟏        | -->
 
 ### LINKS TO WIRESHARK PROJECT WILL BE UPDATED SOON
 
