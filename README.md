@@ -24,7 +24,7 @@ My journey in IT has led me to develop a passion for Cloud Development Operation
 |𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐀𝐩𝐚𝐜𝐡𝐞 𝐖𝐞𝐛 𝐒𝐞𝐫𝐯𝐞𝐫 𝐖𝐢𝐭𝐡 𝐋𝐢𝐧𝐮𝐱                    | <a href="https://medium.com/@leon_b./-c666a249c8fa">𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐀𝐩𝐚𝐜𝐡𝐞 𝐖𝐞𝐛 𝐒𝐞𝐫𝐯𝐞𝐫 𝐖𝐢𝐭𝐡 𝐋𝐢𝐧𝐮𝐱                  |
 <!-- | 𝐀 𝐅𝐨𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐓𝐫𝐨𝐮𝐛𝐥𝐞𝐬𝐡𝐨𝐨𝐭𝐢𝐧𝐠 𝐨𝐟 𝐄𝐂𝟐 𝐈𝐧𝐬𝐭𝐚𝐧𝐜𝐞𝐬 𝐖𝐢𝐭𝐡 𝐒𝐒𝐇 𝐏𝐭.𝟏  | <a href="https://medium.com/@leon_b./-2477b6fc91b0">𝐀 𝐅𝐨𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐓𝐫𝐨𝐮𝐛𝐥𝐞𝐬𝐡𝐨𝐨𝐭𝐢𝐧𝐠 𝐨𝐟 𝐄𝐂𝟐 𝐈𝐧𝐬𝐭𝐚𝐧𝐜𝐞𝐬 𝐖𝐢𝐭𝐡 𝐒𝐒𝐇 𝐏𝐭.𝟏        | -->
 
-### LINKS TO WIRESHARK PROJECT WILL BE UPDATED SOON
+### 
 
 ## Tools
 
